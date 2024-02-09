@@ -1,6 +1,9 @@
 # UnturnedTerrainImporter
 Imports Unturned map into Unity3D
 
+## Requirements
+Unity 2021 LTS only!
+
 ## How to use
 
 ### Installing the tool
